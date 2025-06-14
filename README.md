@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Jayanthi Manickam Sethu
 
-<!--
-**cooljay17/cooljay17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Data Engineer | Pythonista | Cloud Enthusiast | Tech Community Contributor**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **About Me**
+
+- 🚀 18+ years in data world
+- 🔧 Skilled in **SQL, PL/SQL, Python, ETL/ELT**, and **Data Warehousing**
+- ☁️ Budding Learner in Cloud Platforms: **Snowflake | GCP **
+- 🧠 Passionate about **Generative AI**, **Data Modeling**, and building scalable solutions
+- 🛠️ Tools: Informatica PowerCenter 10.1
+
+
+---
+
+📚 **Certifications & Programs**
+- 🧊 Snowflake Squad 2024(https://developerbadges.snowflake.com/af0928e7-c50f-43a3-afdd-12db88063a18) 
+- 🧠 Databricks Fundamentals Badge (https://credentials.databricks.com/7e8fc0e1-baad-4831-9dff-71cf3cc16f82)
+- 🎓 Active participant in **#30DaysOfPython by Indian Data Club**
+- 🧪 Completed **GenAI programs with Google Cloud & Hack2Skill**
+
+---
+
+🎯 **What I'm Currently Up To**
+- 🌱 Learning and exploring Generative AI with Google Cloud Gemini
+- 🛠️ Hands-on with advanced Python: decorators, metaclasses, OOP, and more!
+- 🤝 Volunteering with tech communities (e.g. DevFest 2024 – Track Lead!)
+- ✍️ Sharing tech learnings via [LinkedIn posts](https://www.linkedin.com/in/jayanthi-manickam-sethu/)
+
+
+
+
